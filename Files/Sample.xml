@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+	<site>
+		<url>http://www.helloworld.com</url>
+		<content>
+		Hello World!
+		</content>
+		<links>
+			<link>/firstpage.html</link>
+			<link>/secondpage.html</link>
+			<link>/forum/sample.html</link>
+		</links>
+	</site>	
+</sites>
